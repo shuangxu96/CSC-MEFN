@@ -11,7 +11,7 @@ Deep Convolutional Sparse Coding Networks for Image Fusion. [arxiv](https://arxi
 ## Train & Test
 ### Retrain and Test CSC-MEFN
 The train and test codes are available lines 7-93 and 96-103 of `train.py`. If you want to retrain this network, you should:
-- Please download and unzip the [dataset](https://mega.nz/folder/LQwVhZ4J#PNGzSnjkrqjPD4M7Td2jMA) into the folder `MEF_data`. My folder is organized as follows:
+- Please download and unzip the [dataset](https://mega.nz/file/2MQRkI6A#UhseyXpWfe0x6jnzbSZwcIo6vd1QpJqo3S-tqUHfAAs) into the folder `MEF_data`. My folder is organized as follows:
 ```
     mypath
     ├── train
