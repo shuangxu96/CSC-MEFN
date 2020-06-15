@@ -47,7 +47,7 @@ The train and test codes are available lines 7-93 and 96-103 of `train.py`. If y
 - Run lines 96-103 for testing.
 
 ### Test MEFN with Pretrained Weights
-A pretrained weight file is provided. If you do not want to test this model, please run `test.py`.
+A pretrained weight file is provided. If you do not want to retrain this model, please run `test.py`.
 
 ## Reference
 ```
